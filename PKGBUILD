@@ -1,5 +1,5 @@
 pkgname=gdrive
-pkgver=2.1.0
+pkgver=2.0.1
 pkgrel=1
 pkgdesc="Command line utility for uploading and downloading single files to your Google Drive"
 arch=('x86_64')
